@@ -1,13 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=441d48&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=441d48&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+André+Rodrigues;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+André+Rodrigues;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debugandotech&bg_color=0d1117&color=441d48&line=ece6f0&point=ece6f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debugandotech&bg_color=0d1117&title_color=ffffff&color=441d48&line=d2d2d2&point=c2c2c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debugandotech&title_color=ffffff&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=debugandotech&show_icons=true&count_private=true&hide_border=true&title_color=441d48&icon_color=441d48f&text_color=ece6f0&bg_color=0d1117" alt="André Rodrigues GitHub stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugandotech&layout=compact&hide_border=true&title_color=ece6f0&text_color=ece6f0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=debugandotech&show_icons=true&count_private=true&hide_border=true&title_color=441d48&icon_color=441d48&text_color=c9d1d9&bg_color=0d1117" alt="André Rodrigues GitHub stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugandotech&layout=compact&hide_border=true&title_color=441d48&text_color=ece6f0&bg_color=0d1117" />
 </div>
 
 
@@ -24,6 +29,7 @@
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 </div>
 
 
